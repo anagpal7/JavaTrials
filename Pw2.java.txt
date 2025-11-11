@@ -4,9 +4,15 @@ class PW{
 {
 	/// code one two three
 }
+<<<<<<< HEAD
 public void ml() 
 {
 	/// code 2
 }
 
+=======
+{
+	/// code one two three
+}
+>>>>>>> 5b352821a4a45d388edc0978ea6f91e32aa07612
 }
