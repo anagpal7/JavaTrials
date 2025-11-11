@@ -4,4 +4,7 @@ class PW{
 {
 	/// code one two three
 }
+{
+	/// code one two three
+}
 }
